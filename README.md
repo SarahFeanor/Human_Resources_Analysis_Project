@@ -10,7 +10,7 @@ Bem-vindos(as). Este repositório foi criado com o propósito de estudo. Vale re
 
 <p align="center">
   <a href="https://github.com/SarahFeanor?tab=repositories">
-    <img src="https://cdn.discordapp.com/attachments/1063559719291199599/1202442953998733392/global_economic_barometer_covid19.jpg?ex=65cd7944&is=65bb0444&hm=87c25a6d548f80b55a74198ca834de715b89ef73007e1eb5fc35c5e68a2d43f0&" alt="capa" width="500" height="300">
+    <img src="https://cdn.discordapp.com/attachments/1063559719291199599/1202596799135612969/ict-crm.jpg?ex=65ce088c&is=65bb938c&hm=94fcf6a9f48d2d3186ee98a5a0043e36c7eabaa76ecfb9737712359484b1ed6c&" alt="capa" width="500" height="300">
   </a>
 </p> <p align="center"> <sup> Covid-19 — Foto de PortalFGV</sup> </p>
 
