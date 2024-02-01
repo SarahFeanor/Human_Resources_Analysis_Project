@@ -18,7 +18,7 @@ Bem-vindos(as). Este repositório foi criado com o propósito de estudo. Vale re
 
 É amplamente reconhecido que a retenção de talentos e o enfrentamento de demissões inesperadas são desafios enfrentados por empresas de todos os setores. A redistribuição de tarefas de um funcionário que se desliga pode acarretar em atrasos e/ou queda na qualidade do serviço, resultando em contratempos que repercutem no produto final ou no relacionamento com o cliente. Diante disso, surge a possibilidade de utilizar dados para identificar quais colaboradores apresentam maior probabilidade de deixar a organização.
 
-# 📍 Objetivo
+## 📍 Objetivo
 
 Este estudo tem como objetivo identificar potenciais elementos que influenciam os pedidos de demissão dos colaboradores. Ele visa também aplicar modelos de machine learning ao conjunto de dados para prever quais funcionários estão mais propensos a sair da empresa e avaliar a eficácia desses modelos com base em métricas como precisão, recall e pontuação.
 
@@ -32,7 +32,7 @@ Este estudo tem como objetivo identificar potenciais elementos que influenciam o
 6. Aplicação de Modelos de Aprendizado de Máquina
 7. Considerações Finais
 
-# 1. **Introdução ao Problema**
+## **Introdução ao Problema**
 
 De acordo com um relatório do [G1](https://https//g1.globo.com/trabalho-e-carreira/noticia/2022/06/30/pais-bate-recorde-de-pedidos-de-demissao-em-12-meses-mostra-levantamento.ghtml), entre junho de **2021** e maio de **2022**, o Brasil testemunhou aproximadamente **6,175** milhões de pedidos de demissão, equivalendo a cerca de **33%** de todos os desligamentos no país.
 
