@@ -38,7 +38,7 @@ De acordo com um relatório do [G1](https://https//g1.globo.com/trabalho-e-carre
 
 Um estudo intitulado ["There Are Significant Business Costs to Replacing Employees"](https://www.americanprogress.org/wp-content/uploads/2015/08/CostofTurnover0815.pdf) ressalta que os custos decorrentes de uma demissão, independentemente da sua natureza, podem representar, em média, **16%** do salário anual do colaborador. Para cargos que demandam conhecimentos especializados e anos de experiência, esse custo pode chegar a até **213%** do salário anual. O estudo também conclui que os principais fatores para a retenção de funcionários incluem benefícios familiares que proporcionam flexibilidade para lidar com questões familiares e uma ambiente de trabalho que oferece adaptabilidade.
 
-Conclusão
+## Conclusão
 
 A partir dos métodos de avaliação utilizados foi possível identificar fatores significativos e grupos de funcionários que possuem uma maior propensão a sair da empresa.
 
