@@ -2,7 +2,7 @@
 
 <sub> 📂 Projeto - Data Science - Sarah F. Rezende
 
-#  **Projeto** - Análise de Departamento de Recursos Humanos
+##  **Projeto** - Análise de Departamento de Recursos Humanos
 
 [PROJETO (COLAB)](https://github.com/SarahFeanor/Human_Resources_Analysis_Project/blob/main/An%C3%A1lise_de_departamento_de_RH.ipynb)
 
