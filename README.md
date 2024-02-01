@@ -34,7 +34,7 @@ Este estudo tem como objetivo identificar potenciais elementos que influenciam o
 
 ## **Introdução ao Problema**
 
-De acordo com um relatório do [G1](https://https//g1.globo.com/trabalho-e-carreira/noticia/2022/06/30/pais-bate-recorde-de-pedidos-de-demissao-em-12-meses-mostra-levantamento.ghtml), entre junho de **2021** e maio de **2022**, o Brasil testemunhou aproximadamente **6,175** milhões de pedidos de demissão, equivalendo a cerca de **33%** de todos os desligamentos no país.
+De acordo com um relatório do [G1](https://g1.globo.com/trabalho-e-carreira/noticia/2022/06/30/pais-bate-recorde-de-pedidos-de-demissao-em-12-meses-mostra-levantamento.ghtml), entre junho de **2021** e maio de **2022**, o Brasil testemunhou aproximadamente **6,175** milhões de pedidos de demissão, equivalendo a cerca de **33%** de todos os desligamentos no país.
 
 Um estudo intitulado ["There Are Significant Business Costs to Replacing Employees"](https://www.americanprogress.org/wp-content/uploads/2015/08/CostofTurnover0815.pdf) ressalta que os custos decorrentes de uma demissão, independentemente da sua natureza, podem representar, em média, **16%** do salário anual do colaborador. Para cargos que demandam conhecimentos especializados e anos de experiência, esse custo pode chegar a até **213%** do salário anual. O estudo também conclui que os principais fatores para a retenção de funcionários incluem benefícios familiares que proporcionam flexibilidade para lidar com questões familiares e uma ambiente de trabalho que oferece adaptabilidade.
 
