@@ -4,7 +4,7 @@
 
 #  **Projeto** - Análise de Departamento de Recursos Humanos
 
-[PROJETO (COLAB)](https://github.com/SarahFeanor/Covid_19_EDA_Project/blob/main/Analise_Covid_19.ipynb)
+[PROJETO (COLAB)](https://github.com/SarahFeanor/Human_Resources_Analysis_Project/blob/main/An%C3%A1lise_de_departamento_de_RH.ipynb)
 
 Bem-vindos(as). Este repositório foi criado com o propósito de estudo. Vale ressaltar que todos os dados são exclusivamente para fins de demonstração, garantindo total privacidade e conformidade ética.
 
