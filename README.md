@@ -68,5 +68,4 @@ Os resultados deste estudo podem ser usados para ajudar as empresas a identifica
 
 Este projeto representa um passo em direção ao entendimento e solução dos desafios propostos, evidenciando o potencial da análise de dados e da aprendizagem ao longo deste processo.
 
-
 Além disso, a substituição de funcionários acarreta não apenas em custos diretos relacionados ao processo de contratação, mas também na perda de produtividade durante o período de adaptação do novo colaborador. Nesse contexto, este estudo tem como objetivo identificar indivíduos com maior probabilidade de deixar a empresa, possibilitando a adoção de medidas que incentivem esses funcionários a optarem por permanecer em seus cargos.
