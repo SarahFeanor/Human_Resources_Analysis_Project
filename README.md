@@ -38,4 +38,35 @@ De acordo com um relatório do [G1](https://https//g1.globo.com/trabalho-e-carre
 
 Um estudo intitulado ["There Are Significant Business Costs to Replacing Employees"](https://www.americanprogress.org/wp-content/uploads/2015/08/CostofTurnover0815.pdf) ressalta que os custos decorrentes de uma demissão, independentemente da sua natureza, podem representar, em média, **16%** do salário anual do colaborador. Para cargos que demandam conhecimentos especializados e anos de experiência, esse custo pode chegar a até **213%** do salário anual. O estudo também conclui que os principais fatores para a retenção de funcionários incluem benefícios familiares que proporcionam flexibilidade para lidar com questões familiares e uma ambiente de trabalho que oferece adaptabilidade.
 
+Conclusão
+
+A partir dos métodos de avaliação utilizados foi possível identificar fatores significativos e grupos de funcionários que possuem uma maior propensão a sair da empresa.
+
+**Os principais fatores que foram identificados foram:**
+
+* Idade
+* Cargo
+* Anos de trabalho na empresa
+* Mesmo gerente
+* Hora extra
+* Distância de casa ao trabalho
+* Número de empresas que o funcionário já trabalhou
+
+**Os grupos de funcionários que possuem uma maior propensão a sair da empresa são:**
+
+* Funcionários mais jovens
+* Funcionários que ocupam cargos mais baixos
+* Funcionários que trabalham na empresa há menos tempo
+* Funcionários que trabalham com o mesmo gerente há mais tempo
+* Funcionários que trabalham mais horas extras
+* Funcionários que moram longe do trabalho
+* Funcionários que já trabalharam em várias empresas
+
+Com base nos métodos de avaliação utilizados, os modelos com melhor resultado foram a regressão logística e o SVM. No entanto, o SVM foi ligeiramente superior tanto para classificar quem vai ficar na empresa como quem pretende sair da empresa.
+
+Os resultados deste estudo podem ser usados para ajudar as empresas a identificar os funcionários que estão em maior risco de sair da empresa. As empresas podem então tomar medidas para reduzir esse risco, como oferecendo salários mais altos, benefícios melhores, oportunidades de crescimento profissional e um ambiente de trabalho mais agradável.
+
+Este projeto representa um passo em direção ao entendimento e solução dos desafios propostos, evidenciando o potencial da análise de dados e da aprendizagem ao longo deste processo.
+
+
 Além disso, a substituição de funcionários acarreta não apenas em custos diretos relacionados ao processo de contratação, mas também na perda de produtividade durante o período de adaptação do novo colaborador. Nesse contexto, este estudo tem como objetivo identificar indivíduos com maior probabilidade de deixar a empresa, possibilitando a adoção de medidas que incentivem esses funcionários a optarem por permanecer em seus cargos.
