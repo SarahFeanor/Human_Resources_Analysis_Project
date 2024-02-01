@@ -12,7 +12,7 @@ Bem-vindos(as). Este repositório foi criado com o propósito de estudo. Vale re
   <a href="https://github.com/SarahFeanor?tab=repositories">
     <img src="https://cdn.discordapp.com/attachments/1063559719291199599/1202596799135612969/ict-crm.jpg?ex=65ce088c&is=65bb938c&hm=94fcf6a9f48d2d3186ee98a5a0043e36c7eabaa76ecfb9737712359484b1ed6c&" alt="capa" width="500" height="300">
   </a>
-</p> <p align="center"> <sup> Covid-19 — Foto de PortalFGV</sup> </p>
+</p> <p align="center"> <sup> Recursos Humanos — Foto de CBBR</sup> </p>
 
 # **Análise de Departamento de Recursos Humanos** 💼📊
 
