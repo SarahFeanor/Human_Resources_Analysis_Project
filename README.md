@@ -14,7 +14,7 @@ Bem-vindos(as). Este repositório foi criado com o propósito de estudo. Vale re
   </a>
 </p> <p align="center"> <sup> Recursos Humanos — Foto de CBBR</sup> </p>
 
-# **Análise de Departamento de Recursos Humanos** 💼📊
+## **Análise de Departamento de Recursos Humanos** 💼📊
 
 É amplamente reconhecido que a retenção de talentos e o enfrentamento de demissões inesperadas são desafios enfrentados por empresas de todos os setores. A redistribuição de tarefas de um funcionário que se desliga pode acarretar em atrasos e/ou queda na qualidade do serviço, resultando em contratempos que repercutem no produto final ou no relacionamento com o cliente. Diante disso, surge a possibilidade de utilizar dados para identificar quais colaboradores apresentam maior probabilidade de deixar a organização.
 
